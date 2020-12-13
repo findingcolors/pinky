@@ -28,4 +28,4 @@ In the HTML find:
 
 ```html
 fill:#ffe8e2; <!-- change the hex code -->
-```
+``` 
