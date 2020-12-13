@@ -5,7 +5,7 @@ Pinky is a tumblr page
 ## Terms  
 1. Do not remove or change the credit link  
 2. Do not claim or redistribute this page as yours
-3. You can edit this page to your liking (colors, text, font, etc)
+3. You can edit this page to your liking (colors, text, font, etc)  
 Full Terms and Conditions: https://findingcolors.tumblr.com/tou  
 
 ## Credits
