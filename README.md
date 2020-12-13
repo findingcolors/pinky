@@ -9,13 +9,13 @@ Pinky is a tumblr page
 Full Terms and Conditions: https://findingcolors.tumblr.com/tou  
 
 ## Credits
-Tool Tips - [Manos](https://manos.malihu.gr)
+Tool Tips - [Manos](https://manos.malihu.gr)  
 Icons - [Font Awesome](https://fontawesome.com)  
 
 ## Theme Help
 
 **How to change the background/wave colors**  
-###### Light Pink *(top left)*:  
+##### Light Pink *(top left)*:  
 In the CSS, find:
 
 ```css
@@ -23,7 +23,7 @@ body {
 background-color: #fff8e8;  /* -- change the hex code -- */
 ```
 
-###### Dark Pink *(bottom right)*:
+##### Dark Pink *(bottom right)*:
 In the HTML find:
 
 ```html
